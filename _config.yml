@@ -1,0 +1,24 @@
+# Full title, used in browser tabs and search results.
+title: "CS 639: Social & Ethical Aspects of AI"
+# Short title shown in the sidebar (see _includes/title.html).
+short_title: "CS 639"
+description: "CS 639: Social & Ethical Aspects of AI at the University of Wisconsin-Madison, Spring 2027. How AI intersects with social behavior and society, from computational social science and cultural analytics to responsible AI, AI safety, and HCI."
+theme: just-the-docs
+
+plugins:
+  - jekyll-sitemap
+
+url: "https://lucy3.github.io"
+baseurl: "/socAI-spring27"
+
+# Sidebar nav order
+nav_sort: order
+
+# Footer
+footer_content: "Social &amp; Ethical Aspects of AI &mdash; Spring 2027"
+
+# Search
+search_enabled: false
+
+# Color scheme: "light" or "dark"
+color_scheme: light
