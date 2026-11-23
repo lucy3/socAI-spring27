@@ -20,6 +20,10 @@ This course provides an overview of how AI intersects with social behavior and s
 **Instructor OH**: TBD<br>
 **TA OH**: TBD
 
+## Enrollment
+
+Graduate students are welcome to enroll. Please contact enrollment@cs.wisc.edu to request. 
+
 ## Contact
 
 We will have a class Slack!
