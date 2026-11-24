@@ -22,7 +22,7 @@ This course provides an overview of how AI intersects with social behavior and s
 
 ## Enrollment
 
-Graduate students are welcome to enroll. Please contact enrollment@cs.wisc.edu to request. 
+Graduate students and undergraduate students outside of the CS major with programming experience are welcome to enroll. Please contact enrollment@cs.wisc.edu to request. 
 
 ## Contact
 
