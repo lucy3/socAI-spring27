@@ -7,4 +7,4 @@ nav_order: 3
 
 # Assignments
 
-This course is still under development, but expect grades to consist of in-class work (requiring regular attendance), presentations, group projects, and a final exam. 
+This course is still under development, but expect grades to consist of in-class work (requiring regular attendance), discussions, presentations, group projects, and a final exam. 
