@@ -7,4 +7,13 @@ nav_order: 2
 
 # Course Calendar
 
-This course is still under development, but expect topics such as social bias, safety (e.g. red-teaming, jailbreaking), information reliability (e.g. deepfakes, factuality), privacy, influence/reliance (e.g. sycophancy, AI companions, cognitive debt), copyright, public perceptions of AI, social simulation, and AI use in sociocultural research.  
+This course is still under development, but here's a list of potential topics: 
+- social bias
+- safety (e.g. red-teaming, jailbreaking, reward hacking)
+- information reliability (e.g. deepfakes, factuality, mode collapse)
+- privacy
+- influence and reliance (e.g. sycophancy, AI companions, cognitive debt)
+- creativity and work (including copyright)
+- public perceptions of AI
+- social simulation
+- AI use in sociocultural research
